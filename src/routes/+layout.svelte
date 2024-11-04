@@ -2,8 +2,6 @@
   import "../app.css";
 </script>
 
-<slot></slot>
-
 <svelte:head>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link
